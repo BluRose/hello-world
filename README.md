@@ -1,2 +1,2 @@
 # hello-world
-A test repository for getting the hang of the basics. +Additional text here.
+A test repository for getting the hang of the basics.
